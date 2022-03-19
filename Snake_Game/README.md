@@ -1,4 +1,5 @@
 Lab4 for CS2 class. 
+
 Finished implementation for SnakeGame. Created SnakeGame class which is used to
 calculate the final score of the game. How do you calculate the final score?
 This will be done in two ways, either by searching exhaustively or recursively.
